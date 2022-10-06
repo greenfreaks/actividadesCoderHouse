@@ -1,2 +1,1 @@
-Prueba de cambio de texto
-Esto es contenido agregado desde Js
+Texto sobreescrito usando callbacks
